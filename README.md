@@ -195,8 +195,8 @@ retorna uma resposta amigável:
 
 ## Autores
 
-- Nome do Aluno 1 — [@usuario1](https://github.com/usuario1)
-- Nome do Aluno 2 — [@usuario2](https://github.com/usuario2)
+- Erick Bonruque — [@usuario1](https://github.com/erickbonruque)
+- Kaíque Medeiros Lima — [@usuario2](https://github.com/noirelab)
 
 ---
 
