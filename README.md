@@ -92,7 +92,7 @@ credencial na URL. A `API Key` fica documentada no `.env` como alternativa.
 
 ```bash
 # 1. Clonar o repositório
-git clone https://github.com/SEU-USUARIO/api-filmes-fastify.git
+git clone https://github.com/erickbonruque/api-filmes-fastify.git
 
 # 2. Entrar na pasta do projeto
 cd api-filmes-fastify
