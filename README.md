@@ -195,8 +195,8 @@ retorna uma resposta amigável:
 
 ## Autores
 
-- Erick Bonruque — [@usuario1](https://github.com/erickbonruque)
-- Kaíque Medeiros Lima — [@usuario2](https://github.com/noirelab)
+- Erick Bonruque — [@ErickBonruque](https://github.com/erickbonruque)
+- Kaíque Medeiros Lima — [@noirelab](https://github.com/noirelab)
 
 ---
 
