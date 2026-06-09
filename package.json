@@ -1,0 +1,21 @@
+{
+  "name": "api-filmes-fastify",
+  "version": "1.0.0",
+  "description": "API REST desenvolvida com **Node.js** e **Fastify** que consome a **The Movie Database (TMDB) API**, permitindo listar, buscar e consultar detalhes de filmes.",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "fastify": "^5.8.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
